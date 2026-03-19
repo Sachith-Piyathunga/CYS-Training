@@ -24,9 +24,8 @@
 - [Contributing](#contributing)
 
 ## 📘 Introduction
-
-Welcome to the **90 Days of Cybersecurity** challenge!  
-This repository provides a structured, 90-day self-paced study plan designed to help learners build a strong foundation in cybersecurity. Whether you're a beginner looking to break into the field or a professional aiming to sharpen your skills, this roadmap offers a wide range of curated resources, hands-on tasks, and learning materials.
+  
+This repository provides a structured, self-paced study plan designed for learners to help build a strong foundation in cybersecurity. Whether you're a beginner looking to break into the field or a professional aiming to sharpen your skills, this roadmap offers a wide range of curated resources, hands-on tasks, and learning materials.
 
 The daily modules cover essential and advanced topics, including:
 
@@ -37,7 +36,7 @@ The daily modules cover essential and advanced topics, including:
 - Traffic analysis and packet inspection
 - Version control with Git
 - SIEM tools and log analysis using the ELK stack
-- Cloud security with GCP, AWS and Azure
+- Cloud security with GCP, AWS, and Azure
 - Penetration testing and ethical hacking
 
 Each day is designed with actionable tasks, tutorials, and reading materials to help you stay on track. For a full list of resources, refer to [`learn.md`](./learn.md).
