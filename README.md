@@ -179,4 +179,4 @@ Thank you for being a part of the 90DaysOfCyberSecurity community! We appreciate
 
 Thank you to all contributors for your amazing work! 🎉
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+([emoji key](https://allcontributors.org/docs/en/emoji-key)):
