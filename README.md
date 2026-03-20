@@ -165,14 +165,24 @@ Build a strong one-page resume.
 - Cybersecurity Resume Template: https://www.indeed.com/career-advice/resumes-cover-letters/cybersecurity-resume
 - Cybersecurity Resume from Resume-Now: [https://www.resume-now.com/templates/cyber-security-resume](https://www.resume-now.com/cv/templates/data-systems-administration/cyber-security-specialist)
  This template also has sections for skills, certifications, and experience, along with a summary, and a section for education. It also includes a section for technical   skills.
-## Day 93-95: Where and How to Apply
-Search for jobs on Indeed: https://indeed.com
-Look for opportunities on LinkedIn: https://linkedin.com
 
-### Contribution Categories:
-- **Documentation**: Improve or add to the study material and guides.
-- **Tutorials & Guides**: Create or enhance tutorials explaining complex concepts.
-- **Suggested Resources**: Recommend useful tools, articles, books, or other resources.
+## Day 93-95: Where and How to Apply
+- Search for jobs on Indeed: https://indeed.com
+- Look for opportunities on LinkedIn: https://linkedin.com
+
+## 🤝 Contributing
+
+### Contribution Categories
+
+- 💡 Ideas / Topics  
+- 🧐 Review & Feedback  
+- 💬 Community Support  
+- 🧪 Tests & Quizzes  
+- 🌍 Real-World Applications  
+- 🧑‍🏫 Mentoring  
+- 📝 Documentation : Improve or add to the study material and guides.
+- 📚 Tutorials & Guides : Create or enhance tutorials explaining complex concepts.
+- 🔗 Suggested Resources: Recommend useful tools, articles, books, or other resources.
 - **Ideas / Topics**: Suggest new topics to be added to the learning materials.
 - **Review & Feedback**: Provide feedback on existing materials and suggest improvements.
 - **Community Support**: Answer questions and help others in discussions or issues.
