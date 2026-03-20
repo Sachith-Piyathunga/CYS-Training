@@ -24,8 +24,8 @@
 - 🤝 [Contributing](#contributing)
 
 ## 📘 Introduction
-  
-This repository provides a structured, self-paced study plan designed for learners to help build a strong foundation in cybersecurity. Whether you're a beginner looking to break into the field or a professional aiming to sharpen your skills, this roadmap offers a wide range of curated resources, hands-on tasks, and learning materials.
+
+This repository provides a structured, self-paced study plan to build a strong cybersecurity foundation.
 
 The daily modules cover essential and advanced topics, including:
 
