@@ -182,6 +182,6 @@ Build a strong one-page resume.
 - 💬 Community Support: Answer questions and help others in discussions or issues.
 - 🧪 Tests & Quizzes: Add quizzes, challenges, or tests to check learning progress.
 - 🌍 Real-World Applications: Share real-life examples or case studies of cybersecurity practices.
-- 🧑‍🏫 Mentoring : Help others with study advice, tips, or hosting study sessions.
+- 🧑‍🏫 Mentoring: Help others with study advice, tips, or hosting study sessions.
 
 ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
