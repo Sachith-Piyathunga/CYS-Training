@@ -80,8 +80,8 @@ Practice Linux basics & commands.
 - Complete Linux Unhatched on Cisco NetAcad: https://www.netacad.com/courses/linux-unhatched
 - Complete all Linux Hands-on Labs on LabEx: https://labex.io/free-labs/linux
 
-
-## Day 29-42: Python
+### 🐍 Day 29-42: Python
+Learn Python for automation & security.
 - Complete Codecademy's Learn Python Track: https://codecademy.com/learn/learn-python
 - Python.org: https://www.python.org/
 - Real Python: https://realpython.com/
