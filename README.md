@@ -27,17 +27,19 @@
 
 This repository provides a structured, self-paced study plan to build a strong cybersecurity foundation.
 
-The daily modules cover essential and advanced topics, including:
+### 🔍 Topics Covered
 
-- Networking fundamentals (Network+)
-- Security principles (Security+)
-- Linux basics and shell scripting
-- Python programming for security tasks
-- Traffic analysis and packet inspection
-- Version control with Git
-- SIEM tools and log analysis using the ELK stack
-- Cloud security with GCP, AWS, and Azure
-- Penetration testing and ethical hacking
+- 🌐 Networking fundamentals (Network+)
+- 🔐 Security principles (Security+)
+- 🐧 Linux & shell scripting
+- 🐍 Python for security
+- 📡 Traffic & packet analysis
+- 🌿 Git & version control
+- 📊 ELK stack (SIEM & logging)
+- ☁️ Cloud security (AWS, GCP, Azure)
+- 💻 Ethical hacking & pentesting
+
+---
 
 Each day is designed with actionable tasks, tutorials, and reading materials to help you stay on track. For a full list of resources, refer to [`learn.md`](./learn.md).
 
