@@ -108,7 +108,8 @@ Use tools like Wireshark & tcpdump.
 - Wireshark Tutorial for Beginners series https://www.youtube.com/watch?v=NjvR4LmwcMU&list=PLBf0hzazHTGPgyxeEj_9LBHiqjtNEjsgt&pp=iAQB
 - Suricata Network IDS/IPS https://www.youtube.com/watch?v=S0-vsjhPDN0&pp=ygUhIFN1cmljYXRhIElEUy9JUFMgU3lzdGVtIFR1dG9yaWFs
 
-## Day 57-63: Git
+### 🌿 Day 57-63: Git
+Version control and collaboration.
 - Complete Codecademy's Git for Beginners course: https://codecademy.com/learn/learn-git
 - Follow the Git Immersion tutorial: http://gitimmersion.com
 - Try Git: https://try.github.io
