@@ -69,15 +69,13 @@ Learn networking fundamentals.
 
 ### 🔐 Day 8-14: Security+
 Understand core security concepts. 
-- Watch the videos from Professor Messer's [SY0-701 Playlist](https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv)  
+- Watch the videos from Professor Messer's [SY0-701 Playlist](https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv)
 
-### Another Alternative You Can Use:  
+Another Alternative You Can Use:  
 - Watch Pete Zerger's [SY0-701 Playlist](https://www.youtube.com/watch?v=1E7pI7PB4KI&list=PL7XJSuT7Dq_UDJgYoQGIW9viwM5hc4C7n)  
 
-### Additional Practice:  
-- Complete any related practice questions or exercises. 
-
-## Day 15-28: Linux
+### 🐧 Day 15-28: Linux
+Practice Linux basics & commands.
 - Browse through the Linux Journey tutorials: https://linuxjourney.com/
 - Complete Linux Unhatched on Cisco NetAcad: https://www.netacad.com/courses/linux-unhatched
 - Complete all Linux Hands-on Labs on LabEx: https://labex.io/free-labs/linux
