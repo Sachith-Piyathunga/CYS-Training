@@ -59,11 +59,13 @@ This repository provides a structured, self-paced study plan to build a strong c
 - 📚 Self-learners  
 - ⚙️ Developers & DevOps engineers  
 
-No prior experience is required, though basic familiarity with computers, networks, or programming will be helpful.
+---
 
-## Day 1-7: Network+
+## 🗂️ Daily Breakdown
+
+### 🌐 Day 1-7: Network+
+Learn networking fundamentals.
 - Watch videos from Professor Messer's [N10-009 Playlist](https://youtube.com/playlist?list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8&si=3rUsqmrdsNK3izh6)
-- Complete any related practice questions or exercises.
 
 ## Day 8-14: Security+  
 
