@@ -64,13 +64,13 @@ This repository provides a structured, self-paced study plan to build a strong c
 ## 🗂️ Daily Breakdown
 
 
-### 🌐 Day 1-7: Network+
+## 🌐 Day 1-7: Network+
 
 Learn networking fundamentals.
 - Watch videos from Professor Messer's [N10-009 Playlist](https://youtube.com/playlist?list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8&si=3rUsqmrdsNK3izh6)
 
 
-### 🔐 Day 8-14: Security+
+## 🔐 Day 8-14: Security+
 
 Understand core security concepts. 
 - Watch the videos from Professor Messer's [SY0-701 Playlist](https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv)
@@ -79,7 +79,7 @@ Another Alternative You Can Use:
 - Watch Pete Zerger's [SY0-701 Playlist](https://www.youtube.com/watch?v=1E7pI7PB4KI&list=PL7XJSuT7Dq_UDJgYoQGIW9viwM5hc4C7n)  
 
 
-### 🐧 Day 15-28: Linux
+## 🐧 Day 15-28: Linux
 
 Practice Linux basics & commands.
 - Browse through the Linux Journey tutorials: https://linuxjourney.com/
@@ -87,7 +87,7 @@ Practice Linux basics & commands.
 - Complete all Linux Hands-on Labs on LabEx: https://labex.io/free-labs/linux
 
 
-### 🐍 Day 29-42: Python
+## 🐍 Day 29-42: Python
 
 Learn Python for automation & security.
 - Complete Codecademy's Learn Python Track: https://codecademy.com/learn/learn-python
@@ -102,7 +102,7 @@ Learn Python for automation & security.
 - https://www.youtube.com/watch?v=egg-GoT5iVk&ab_channel=TheCyberMentor
 
 
-### 📡 Day 43-56: Traffic Analysis
+## 📡 Day 43-56: Traffic Analysis
 
 Use tools like Wireshark & tcpdump.
 - Take the Wireshark University course: https://www.wireshark.org/#educationalContent
@@ -113,7 +113,7 @@ Use tools like Wireshark & tcpdump.
 - Wireshark Tutorial for Beginners series https://www.youtube.com/watch?v=NjvR4LmwcMU&list=PLBf0hzazHTGPgyxeEj_9LBHiqjtNEjsgt&pp=iAQB
 - Suricata Network IDS/IPS https://www.youtube.com/watch?v=S0-vsjhPDN0&pp=ygUhIFN1cmljYXRhIElEUy9JUFMgU3lzdGVtIFR1dG9yaWFs
 
-### 🌿 Day 57-63: Git
+## 🌿 Day 57-63: Git
 
 Version control and collaboration.
 - Complete Codecademy's Git for Beginners course: https://codecademy.com/learn/learn-git
@@ -121,13 +121,13 @@ Version control and collaboration.
 - Try Git: https://try.github.io
 - Use [Learn Git Branching](https://learngitbranching.js.org/) for an interactive Git CLI simulator.
 
-### 📊 Day 64-70: ELK
+## 📊 Day 64-70: ELK
 
 Log analysis and SIEM basics.
 - Follow the ELK Stack Tutorial on Logz.io: [https://logz.io/learn/complete-elk-stack-tutorial/](https://logz.io/learn/complete-guide-elk-stack/)
 - Browse through the ELK Stack tutorials on Elastic: [https://elastic.co/learn/elastic-stack](https://www.elastic.co/elastic-stack/features)
 
-### ☁️ Day 71-77: Cloud
+## ☁️ Day 71-77: Cloud
 
 Choose one:
 
@@ -148,7 +148,10 @@ Choose one:
 - Go through Azure Fundamentals: https://learn.microsoft.com/en-us/training/azure/
 - Complete the [Microsoft Learn Azure labs](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals/) with sandbox environments
 
-## Day 85-90: Hacking
+## 💻 Day 85-90: Hacking
+Practice on:
+- Hack The Box 🧠
+- VulnHub 🎯
 
 - Try to hack the challenges on Hack the Box: https://hackthebox.com
 - Practice on vulnerable machines on Vulnhub: https://vulnhub.com
