@@ -67,9 +67,8 @@ This repository provides a structured, self-paced study plan to build a strong c
 Learn networking fundamentals.
 - Watch videos from Professor Messer's [N10-009 Playlist](https://youtube.com/playlist?list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8&si=3rUsqmrdsNK3izh6)
 
-## Day 8-14: Security+  
-
-### Strongly Recommend Professor Messer's:  
+### 🔐 Day 8-14: Security+
+Understand core security concepts. 
 - Watch the videos from Professor Messer's [SY0-701 Playlist](https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv)  
 
 ### Another Alternative You Can Use:  
