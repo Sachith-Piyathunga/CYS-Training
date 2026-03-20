@@ -159,7 +159,8 @@ Practice on:
 - Ethical Hacking Part 1: https://www.youtube.com/watch?v=3FNYvj2U0HM&ab_channel=TheCyberMentor
 - Ethical Hacking Part 2: https://www.youtube.com/watch?v=sH4JCwjybGs&ab_channel=TheCyberMentor
 
-## Day 91-92: One Page Resume
+## 📄 Day 91-92: Resume
+Build a strong one-page resume.
 - Use the provided resume template: https://bowtiedcyber.substack.com/p/killer-cyber-resume-part-ii
 - Cybersecurity Resume Template: https://www.indeed.com/career-advice/resumes-cover-letters/cybersecurity-resume
 - Cybersecurity Resume from Resume-Now: [https://www.resume-now.com/templates/cyber-security-resume](https://www.resume-now.com/cv/templates/data-systems-administration/cyber-security-specialist)
