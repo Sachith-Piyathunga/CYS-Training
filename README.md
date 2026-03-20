@@ -41,21 +41,12 @@ This repository provides a structured, self-paced study plan to build a strong c
 
 ---
 
-Each day is designed with actionable tasks, tutorials, and reading materials to help you stay on track. For a full list of resources, refer to [`learn.md`](./learn.md).
-
 ## 🎯 Goals and Audience
 
 ### 📌 Goals
 
-The primary goal of this 90-day plan is to help learners:
-
-- Build a solid foundation in core cybersecurity concepts and practices.
-- Gain hands-on experience through daily exercises and real-world tools.
-- Develop the technical skills necessary for certifications such as CompTIA Network+ and Security+.
-- Explore key domains including network security, system hardening, cloud security, scripting, and ethical hacking.
-- Cultivate a consistent learning habit over 90 days to support long-term retention and growth.
-
-By the end of this journey, you should feel confident navigating a variety of cybersecurity tools, concepts, and techniques.
+- 🧱 Build strong cybersecurity fundamentals  
+- 🛠️ Gain hands-on experience  
 
 ### 👥 Intended Audience
 
