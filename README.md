@@ -63,9 +63,11 @@ This repository provides a structured, self-paced study plan to build a strong c
 
 ## 🗂️ Daily Breakdown
 
+
 ### 🌐 Day 1-7: Network+
 Learn networking fundamentals.
 - Watch videos from Professor Messer's [N10-009 Playlist](https://youtube.com/playlist?list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8&si=3rUsqmrdsNK3izh6)
+
 
 ### 🔐 Day 8-14: Security+
 Understand core security concepts. 
@@ -74,11 +76,13 @@ Understand core security concepts.
 Another Alternative You Can Use:  
 - Watch Pete Zerger's [SY0-701 Playlist](https://www.youtube.com/watch?v=1E7pI7PB4KI&list=PL7XJSuT7Dq_UDJgYoQGIW9viwM5hc4C7n)  
 
+
 ### 🐧 Day 15-28: Linux
 Practice Linux basics & commands.
 - Browse through the Linux Journey tutorials: https://linuxjourney.com/
 - Complete Linux Unhatched on Cisco NetAcad: https://www.netacad.com/courses/linux-unhatched
 - Complete all Linux Hands-on Labs on LabEx: https://labex.io/free-labs/linux
+
 
 ### 🐍 Day 29-42: Python
 Learn Python for automation & security.
@@ -94,7 +98,8 @@ Learn Python for automation & security.
 - https://www.youtube.com/watch?v=egg-GoT5iVk&ab_channel=TheCyberMentor
 
 
-## Day 43-56: Traffic Analysis
+### 📡 Day 43-56: Traffic Analysis
+Use tools like Wireshark & tcpdump.
 - Take the Wireshark University course: https://www.wireshark.org/#educationalContent
 - Follow the Wireshark Tutorial on guru99: https://guru99.com/wireshark-tutorial.html
 - Read through the TCPdump Tutorial on DanielMiessler: https://danielmiessler.com/study/tcpdump/
