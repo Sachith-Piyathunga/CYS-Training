@@ -115,7 +115,8 @@ Version control and collaboration.
 - Try Git: https://try.github.io
 - Use [Learn Git Branching](https://learngitbranching.js.org/) for an interactive Git CLI simulator.
 
-## Day 64-70: ELK
+### 📊 Day 64-70: ELK
+Log analysis and SIEM basics.
 - Follow the ELK Stack Tutorial on Logz.io: [https://logz.io/learn/complete-elk-stack-tutorial/](https://logz.io/learn/complete-guide-elk-stack/)
 - Browse through the ELK Stack tutorials on Elastic: [https://elastic.co/learn/elastic-stack](https://www.elastic.co/elastic-stack/features)
 
