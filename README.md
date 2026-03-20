@@ -7,14 +7,14 @@
 
 ## 📚 Table of Contents
 
-- [Introduction](#introduction)
-- [Goals and Audience](#goals-and-audience)
-- [Daily Breakdown](#daily-breakdown)
-  - [Day 1-7: Network+ Concepts](#network+-concepts)
-  - [Day 8-14: Security+ Concepts](#Security+-concepts)
-  - [Day 15-28: Linux Tutorials](#linux-tutorials)
-  - [Day 29-42: Python](#python)
-  - [Day 43-56: Traffic Analysis](#traffic-analysis)
+- 📘 [Introduction](#introduction)
+- 🎯 [Goals and Audience](#goals-and-audience)
+- 🗂️ [Daily Breakdown](#daily-breakdown)
+  - 🌐 [Day 1-7: Network+ Concepts](#network+-concepts)
+  - 🔐 [Day 8-14: Security+ Concepts](#security+-concepts)
+  - 🐧 [Day 15-28: Linux Tutorials](#linux-tutorials)
+  - 🐍 [Day 29-42: Python](#python)
+  - 📡 [Day 43-56: Traffic Analysis](#traffic-analysis)
   - [Day 57-63: Git](#git)
   - [Day 64-70: ELK](#elk)
   - [Day 71-77: GCP or AWS or Azure ](#gcp-or-aws-or-azure)
