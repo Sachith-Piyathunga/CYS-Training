@@ -51,16 +51,13 @@ This repository provides a structured, self-paced study plan to build a strong c
 - 🔎 Explore real-world security domains  
 - 📅 Build consistent learning habits 
 
-### 👥 Intended Audience
+### 👥 Audience
 
-This repository is ideal for:
-
-- **Aspiring cybersecurity professionals** preparing for entry-level roles or certifications.
-- **IT professionals** transitioning into a security-focused career.
-- **Students** studying computer science, information systems, or network engineering.
-- **Self-learners** seeking a structured and comprehensive study plan.
-- **Developers and DevOps engineers** looking to better understand secure infrastructure and threat detection.
-- **Anyone curious** about how cybersecurity works in real-world environments.
+- 👨‍💻 Aspiring cybersecurity professionals  
+- 🔄 IT professionals switching to security  
+- 🎓 Students (CS, IT, Networking)  
+- 📚 Self-learners  
+- ⚙️ Developers & DevOps engineers  
 
 No prior experience is required, though basic familiarity with computers, networks, or programming will be helpful.
 
