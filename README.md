@@ -65,11 +65,13 @@ This repository provides a structured, self-paced study plan to build a strong c
 
 
 ### 🌐 Day 1-7: Network+
+
 Learn networking fundamentals.
 - Watch videos from Professor Messer's [N10-009 Playlist](https://youtube.com/playlist?list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8&si=3rUsqmrdsNK3izh6)
 
 
 ### 🔐 Day 8-14: Security+
+
 Understand core security concepts. 
 - Watch the videos from Professor Messer's [SY0-701 Playlist](https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv)
 
@@ -78,6 +80,7 @@ Another Alternative You Can Use:
 
 
 ### 🐧 Day 15-28: Linux
+
 Practice Linux basics & commands.
 - Browse through the Linux Journey tutorials: https://linuxjourney.com/
 - Complete Linux Unhatched on Cisco NetAcad: https://www.netacad.com/courses/linux-unhatched
@@ -85,6 +88,7 @@ Practice Linux basics & commands.
 
 
 ### 🐍 Day 29-42: Python
+
 Learn Python for automation & security.
 - Complete Codecademy's Learn Python Track: https://codecademy.com/learn/learn-python
 - Python.org: https://www.python.org/
@@ -99,6 +103,7 @@ Learn Python for automation & security.
 
 
 ### 📡 Day 43-56: Traffic Analysis
+
 Use tools like Wireshark & tcpdump.
 - Take the Wireshark University course: https://www.wireshark.org/#educationalContent
 - Follow the Wireshark Tutorial on guru99: https://guru99.com/wireshark-tutorial.html
@@ -109,6 +114,7 @@ Use tools like Wireshark & tcpdump.
 - Suricata Network IDS/IPS https://www.youtube.com/watch?v=S0-vsjhPDN0&pp=ygUhIFN1cmljYXRhIElEUy9JUFMgU3lzdGVtIFR1dG9yaWFs
 
 ### 🌿 Day 57-63: Git
+
 Version control and collaboration.
 - Complete Codecademy's Git for Beginners course: https://codecademy.com/learn/learn-git
 - Follow the Git Immersion tutorial: http://gitimmersion.com
@@ -116,28 +122,29 @@ Version control and collaboration.
 - Use [Learn Git Branching](https://learngitbranching.js.org/) for an interactive Git CLI simulator.
 
 ### 📊 Day 64-70: ELK
+
 Log analysis and SIEM basics.
 - Follow the ELK Stack Tutorial on Logz.io: [https://logz.io/learn/complete-elk-stack-tutorial/](https://logz.io/learn/complete-guide-elk-stack/)
 - Browse through the ELK Stack tutorials on Elastic: [https://elastic.co/learn/elastic-stack](https://www.elastic.co/elastic-stack/features)
 
-## Day 71-77: Cloud Platforms
+### ☁️ Day 71-77: Cloud
 
-## Any one of them works fine.
+Choose one:
 
-### GCP:
+### GCP 🌎
 -  Explore the GCP Getting Started Resource : https://cloud.google.com/getting-started/
 -  Google Cloud Platform Documentation: https://cloud.google.com/docs/
 -  Google Cloud Platform Blog: https://cloud.google.com/blog/
 -  Google Cloud Platform Community: https://cloud.google.com/community/
 -   Try hands-on challenges with [Google Cloud Skills Boost](https://www.cloudskillsboost.google)
 
-### AWS
+### AWS ☁️
 - Explore the AWS Getting Started Resource Center: https://aws.amazon.com/getting-started/
 - Browse through the AWS Tutorials: https://aws.amazon.com/tutorials/
 - Learn through gamified labs on [AWS Cloud Quest](https://aws.amazon.com/training/digital/aws-cloud-quest/)
 
 
-###  Azure
+###  Azure 🔷
 - Go through Azure Fundamentals: https://learn.microsoft.com/en-us/training/azure/
 - Complete the [Microsoft Learn Azure labs](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals/) with sandbox environments
 
