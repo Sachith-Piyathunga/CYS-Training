@@ -15,13 +15,13 @@
   - 🐧 [Day 15-28: Linux Tutorials](#linux-tutorials)
   - 🐍 [Day 29-42: Python](#python)
   - 📡 [Day 43-56: Traffic Analysis](#traffic-analysis)
-  - [Day 57-63: Git](#git)
-  - [Day 64-70: ELK](#elk)
-  - [Day 71-77: GCP or AWS or Azure ](#gcp-or-aws-or-azure)
-  - [Day 85-90: Hacking](#hacking)
-  - [Day 91-92: One Page Resume](#one-page-resume)
-  - [Day 93-95: Where and How to Apply](#where-and-how-to-apply)
-- [Contributing](#contributing)
+  - 🌿 [Day 57-63: Git](#git)
+  - 📊 [Day 64-70: ELK](#elk)
+  - ☁️ [Day 71-77: Cloud Platforms](#gcp-or-aws-or-azure)
+  - 💻 [Day 85-90: Hacking](#hacking)
+  - 📄 [Day 91-92: One Page Resume](#one-page-resume)
+  - 🚀 [Day 93-95: Where and How to Apply](#where-and-how-to-apply)
+- 🤝 [Contributing](#contributing)
 
 ## 📘 Introduction
   
