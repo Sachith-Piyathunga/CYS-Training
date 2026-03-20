@@ -46,7 +46,10 @@ This repository provides a structured, self-paced study plan to build a strong c
 ### 📌 Goals
 
 - 🧱 Build strong cybersecurity fundamentals  
-- 🛠️ Gain hands-on experience  
+- 🛠️ Gain hands-on experience
+- 🎓 Prepare for certifications  
+- 🔎 Explore real-world security domains  
+- 📅 Build consistent learning habits 
 
 ### 👥 Intended Audience
 
