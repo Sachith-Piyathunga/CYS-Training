@@ -1,6 +1,6 @@
 # 🛡️ 90-Day Cybersecurity Study Plan
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+<!--[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)-->
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <a href="https://trendshift.io/repositories/1948" target="_blank"><img src="https://trendshift.io/api/badge/repositories/1948" alt="farhanashrafdev%2F90DaysOfCyberSecurity | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
